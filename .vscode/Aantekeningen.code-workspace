@@ -5,6 +5,8 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "GitHub Light"
+		"workbench.colorTheme": "GitHub Light",
+		"pasteImage.prefix": "#image(\"",
+		"pasteImage.suffix": "\")",
 	}
 }
