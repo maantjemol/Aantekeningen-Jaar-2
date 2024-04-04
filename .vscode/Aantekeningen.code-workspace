@@ -8,5 +8,13 @@
 		"workbench.colorTheme": "GitHub Light",
 		"pasteImage.prefix": "#image(\"",
 		"pasteImage.suffix": "\")",
+		"cSpell.language": "nl,en,nl-NL,lorem",
+		"cSpell.enableFiletypes": [
+			"typst"
+		],
+		"cSpell.words": [
+			"IBIA",
+			"Minto"
+		],
 	}
 }
