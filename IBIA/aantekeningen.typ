@@ -109,7 +109,3 @@ Hoe werken die modellen, wat kan je ermee en wat heb je eraan als organisatie?
 - Other
 - Procurement
 - Relations
-
-
-Manuel:
-Ik werk nu naast mijn studie als web developer maar zou na mijn studie wat meer maatschappelijk relevant werk willen doen. Mijn interesses liggen vooral in data science en ethisch hacken. Ik vind de combinatie van techniek en maatschappij heel interessant en zou daar graag meer mee willen doen. Ook conclusies trekken uit data en daarop actie ondernemen vind ik interessant.
