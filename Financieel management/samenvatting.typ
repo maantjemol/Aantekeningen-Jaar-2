@@ -546,12 +546,326 @@ De staatsbalans is een overzicht van de bezittingen en schulden van de overheid.
 
 Huidige staat in Nederland is dat ie extracomptabel is. Waardering lang niet altijd conform IPSAS. Er is ook geen controle.
 
+/ Kostprijs: de totale kosten per product ($"GTK"$)
+= Kostprijzen in de publieke sector:
+*Directe kosten:* kosten die direct toewijsbaar zijn aan een product
+*Indirecte kosten:* kosten die niet direct toewijsbaar zijn aan een product
 
+== Primitieve opslagmethode:
+Hier tel je de indirecte kosten bij de directe kosten op:
+
+$ "GTK" = "Directe kosten" dot (1 + "Totale indirecte kosten" / "Totale directe kosten") $
+
+== ABC:
+Activity Based Costing is een methode om de kosten van een product te berekenen. Hierbij worden de kosten toegewezen aan activiteiten, en niet aan producten. Dit zorgt voor een betere toewijzing van de kosten.
+
+== Break even analyse:
+$ "TO" = "TK" $
+
+= Belastingfaciliteiten:
+De overheid heeft een aantal functies:
++ *Allocatiefunctie:* de overheid kan de economie sturen
++ *Stabilisatiefunctie:* de overheid kan de economie stabiliseren
++ *Verdelingsfunctie:* de overheid kan de inkomensverdeling beïnvloeden
+/ Belastinguitgaven: Dingen als hypotheekrente aftrek, heffingskortingen enz.
+== Gevolgen fiscale regelingen:
+/ Fiscale regelingen: uitzonderingen in het belasting stelsel
+- Deadweight loss
+- Leid tot hogere tarieven 
+
+== Heffingsdruk:
+*Marginale heffingsdruk:* Hoeveel euro stijgt de af te dragen belasting als het inkomen met 1 euro stijgt.
+
+*Gemiddelde heffingsdruk:* Hoeveel procent van het inkomen moet worden afgedragen aan belastingen.
+
+Beide zouden toe moeten nemen als het inkomen toeneemt. Dit werkt helaas niet helemaal zo in de praktijk. De marginale druk kan soms dalen als het inkomen stijgt. Dit komt door belastingfaciliteiten zoals heffingskortingen.
+
+== Alleenstaande:
+Als een modale inkomenstrekker arbeidsaanbod van 4 naar 5 dagen per week verhoogd gaat ie voor de uren die hij extra werkt 3 euro per uur verdienen. Dit is een verstoring, zeer hoge marginale druk.
+
+
+== Evaluatie van regelingen:
+- 11 van 73 zijn doelmatig.
+- We moeten terughoudender zijn met nieuwe regelingen en oude afschaffen
+
+
+#pagebreak()
 
 = Prestaties en effecten
+== Traditionele begroting:
+Focust zich op de input en middelen. Denk hierbij aan:
+- *Kostensoorten:*
+  - Personeel
+  - Materieel
+  - Overdrachten (organisaties)
+  - Kapitaal (vastgoed, infra)
+- *Programma's:* denk bijvoorbeeld aan onderwijs, zorg, veiligheid
+- *Hoofdstukken:* denk aan categorieën binnen een programma. Bijvoorbeeld: basisonderwijs, middelbaar onderwijs, hoger onderwijs.
 
-= Grote projecten
+*Nadelen* van deze manier van begroten:
+- De focus ligt niet op de resultaten maar op de middelen
+- Er is geen inzicht in de effecten van de uitgaven
 
-= Financiële verhoudingen
+== Een begroting:
+$ "Middelen" -> "Prestaties (output)" -> "Effecten (daadwerkelijke uitkomst)" $
 
-= Financiering
+== Voorbeeld (ziekenhuis):
+- *Middelen:* aantal bedden, aantal personeelsleden, budget
+- *Prestaties:* behandelingen, operaties
+- *Effecten:* verbetering gezondheidstoestand
+
+== EEE:
+Je kunt efficiënt zijn door snel te werken, maar als je naar de verkeerde plek gaat, ben je niet effectief. Je kunt effectief zijn door naar de juiste plek te rijden, zelfs als je langzaam bent.
+
+*Economy (zuinigheid)*
+
+*Efficiency*\
+productief (de dingen goed doen)
+
+*Effectiviteit*\
+doelmatig (de goede dingen doen)
+
+== Meten van prestaties:
+Meten van prestatie in de publieke sector vaak lastig. Dit komt door:
+- Collectieve goederen
+- Veel dienstverlening (diensten zijn moeilijker te meten dan producten, goed onderwijs vs $x$ aantal producten)
+- Kwaliteit: moeilijk te meten
+#pagebreak()
+
+Wanneer veranderd productiviteit in de publieke sector?
+- Motivatie
+- Cultuur
+- Prikkels
+- Kapitaal, technologie
+- Schaal
+- Kwaliteit
+
+
+Gemiddelde totalen kosten dalen eerst en stijgen dan weer. Dit komt door de *wet van de afnemende meeropbrengsten*. Dit betekent dat als je meer van een input toevoegt, de extra output steeds minder wordt.
+
+Schaal en kwaliteit kunnen gerelateerd zijn, meer middelen om het goed te doen, maar het kan ook minder persoonlijk zijn (klein maar fijn).
+
+*schaaldoelmatig:* beoordeeld de efficiëntie van een organisaties aan de hand van de schaal van de organisatie\
+*kostendoelmatig:* beoordeeld de efficiëntie van een organisatie aan de hand van de kosten van de organisatie. Een bedrijf dat 10% minder aan personeelskosten uitgeeft dan een vergelijkbaar bedrijf met dezelfde omvang, is kostendoelmatiger.
+
+*Gradaties:*
+- *Prestatiemeting:* Dit is het meest basale niveau. Hierbij worden simpelweg feiten en gegevens over de prestaties van een organisatie verzameld en geanalyseerd. Er wordt nog niet gestuurd op deze informatie.
+  - *Voorbeeld:* Een school verzamelt data over het aantal leerlingen dat slaagt voor een examen.
+- *Prestatiebegroting:* Hier wordt een stap verder gezet door grenzen te stellen voor de prestaties. De begroting geeft aan welke doelen er moeten worden gehaald en welke middelen er daarvoor beschikbaar zijn.
+  - *Voorbeeld:* Een school stelt een doel om het slagingspercentage te verhogen naar 80% en reserveert extra middelen voor bijles en extra ondersteuning.
+- *Prestatiemanagement:* Op dit niveau wordt er daadwerkelijk gestuurd op prestaties. Er wordt gecontroleerd of de gestelde doelen worden gehaald en er worden eventueel bijsturingen gedaan.
+  - *Voorbeeld:* De school controleert regelmatig het slagingspercentage en past de ondersteuning aan waar nodig.
+- *Prestatiebekostiging:* Dit is het hoogste niveau van prestatiemeting. Hierbij wordt de financiering van een organisatie direct gekoppeld aan de behaalde prestaties. Dit creëert prikkels om te presteren en om de doelmatigheid te verhogen.
+  - *Voorbeeld:* De school krijgt extra financiering als het slagingspercentage stijgt en minder financiering als het daalt.
+
+== Meten van effect:
+Het meten van effecten is vaak lastig omdat ze niet in een vacuum gebeuren.
+#pagebreak()
+
+*Wet van Baumol:*
+De Wet van Baumol beschrijft een fenomeen in de publieke sector: de groei van de productiviteit blijft daar vaak achter bij de groei in de marktsector. Dit komt doordat veel publieke diensten lastig te automatiseren zijn en de productiviteit dus minder snel toeneemt. 
+
+== Prestatie management:
+Prestatiemanagement is een managementstijl waarbij er gericht wordt op het behalen van prestaties. Hierbij worden doelen gesteld en wordt er gestuurd op het behalen van deze doelen.
+
+Dit kan lijden tot meer doelmatigheid, maar ook ontsporing. 
+
+In de praktijk is dit lastig omdat veel dingen niet goed meetbaar zijn in de publieke sector, denk aan kunst en cultuur, onderwijs en zorg. Andere dingen zoals politie, justitie, uitkeringen en belasting zijn wel goed meetbaar.
+
+Uitvoeringsorganisaties scoren over het algemeen beter op productiviteitsgroei dan bijvoorbeeld onderwijs. Dit heeft ermee te maken dat de schaal van onderwijs veel groter is, 
+
+De gevolgen van een organisatie met een te grote schaal zijn:
+- Ondoelmatigheid
+- Slechtere bereikbaarheid
+- Minder concurrentie en keuze
+
+Er bestaat misschien een verband tussen kwaliteit en hogere kosten. Er is niet perse bewijs dat dit zo is. 
+
+Decentrale overheden gebruiken vaker een prestatiebegroting. Dit wordt vooral gebruikt als een instrument voor management. Het Rijk is minder positief over prestatiebegrotingen.
+
+== Prestatie begrotingen in het rijk:
+Paar pogingen, belangrijkste is de VBTB (Van Beleidsbegroting tot Beleidsverantwoording):
+- Begroting op basis van beleid.
+- Ingrijpende wijziging opzet en indeling begroting
+Dit is helemaal mislukt omdat de doelstellingen te vaag waren en er geen prestaties maar middelen en processen werden gemeten.
+
+Nieuwe poging: *VB:*
+- Meer focus op prestaties en verantwoordelijkheid minister.
+- Minder ambitieus dan VBTB
+- Nog steeds geen connectie tussen kosten en effecten, dus geen inzicht in doelmatigheid.
+
+== Grote projecten:
+Bij grote projecten zijn er 3 belangrijke vragen:
+- Besliscriterium
+- Bepaling kosten en baten
+- Hoe om te gaan met tijd
+
+== Tijd en contante waarde:
+Geld nu is meer waard dan geld later. Dit komt door inflatie maar bvb ook rente stijging. Het is uds nuttig om de contante waarde uit te kunnen rekenen:
+
+$ R_0 = (R_t)/((1+r)^t) $
+
+*Hoe kies je $r$?*
+- *Onderhandeling*: De discontovoet wordt bepaald door onderhandeling tussen de betrokken partijen.  Dit kan bijvoorbeeld gebeuren tussen verschillende overheidsinstanties of tussen de overheid en private partners.  
+- *Rendement private sector*: De discontovoet wordt gebaseerd op het rendement dat private investeerders verwachten in vergelijkbare projecten.  
+- *Social Discount Rate*: Deze benadering erkent dat toekomstige generaties ook belang hebben bij de voordelen van huidige projecten.  Daarom wordt de discontovoet vaak lager vastgesteld dan in de private sector, om toekomstige baten meer gewicht te geven
+
+== Kiezen van projecten:
+2 opties:
+- rangschikken op basis van de contante waarde
+- grenswaarde instellen en alles erboven kiezen
+
+Een andere manier is *IRR* (internal rate of return) te gebruiken. Dat is hoeveel je terug verdient op het project:
+- Project A: Investeringskosten €1.000.000, baten van €1.200.000 over 5 jaar. Irr = 4%
+- Project B: Investeringskosten €500.000, baten van €600.000 over 2 jaar. Irr = 10%
+
+Schaal maakt hier uit, een klein project kan een hogere IRR hebben dan een groot project maar minder opleveren.
+
+Andere manier is *Benefit-Cost Ratio:*
+$ "Benefit" / "Cost" $
+
+*Terugverdientijd* kan ook gebruikt worden:\
+Houd geen rekening met netto baten en omvang van het project.
+
+Uiteindelijk is de beste toch wel de *contante waarde*
+
+== Bepaling kosten en baten
+Bij bedrijven tellen alleen economische kosten en baten. Bij de publieke sector telt ook de maatschappelijke kosten en baten mee. Dit is lastig te meten.
+
+== Kosten baten analyse:
++ Inventariseer alle kosten en baten. 
++ Waardeer ze in geld, tel ze op 
++ Bepaal CW
++ Als de CW positief is doen, anders niet
+
+== Waardering van kosten en baten:
+Je wilt altijd tegen marktprijzen waarderen. Er zijn een aantal problemen met de marktprijs:
++ De marktprijs kan de werkelijke waarde van een goed niet goed weerspiegelen
++ Indirecte belastingen kunnen de prijs beïnvloeden
+Er zijn vaak ook externe effecten die invloed hebben op de waardering, zoals een schonere omgeving of geluidsoverlast. Sommige goederen zijn non-rivaliserend zoals een park waar iedereen gebruik van kan maken. Het is moeilijk om van zoiets de waarde te bepalen. Voor sommige dingen ontbreken er ook gewoon prijzen, zoals dood, geluidsoverlast, stank, milieu, tijd.
+
+= KBA (kosten baten analyse)
+We willen dingen waarderen in geld. Denk aan de waarde van een mensenleven. Hoe waardeer je zoiets? Er zijn verschillende methodes:
+
+== Lost earnings
+Hierbij wordt er gekeken naar wat iemand verdient. CW van verloren inkomen. Consequentie: Laag geschoold minder waard dan hoog en oude mensen niks waard.
+
+== Willingness to pay
+Risico keer bedrag. Uitzoeken hoeveel mensen bereid zijn te betalen om risico te verminderen. Mensen die een hoger salaris eisen voor gevaarlijk werk. 
+
+== Contingent valuation
+Vraag de mensen naar waardering.
+
+Het is eigenlijk niet mogelijk om een mensenleven uit te drukken in geld. Er zijn 4 fundamentele problemen (Heinzerling & Ackerman):
+== Waardering onnauwkeurig en ongeloofwaardig:
+Een mensenleven is van onschatbare waarde. Vaak schatten we de waarde van risico's die voor ons relevant zijn hoger in. Risico's zijn vaak vatbaarder voor beleid als ze minder vrijwillig zijn. Er moet ook genoegen worden genomen met incomplete informatie.
+
+== Discontering zorgt dat toekomstige schade minder waard is
+KBA maakt toekomst minder belangrijk, dus minder waarde voor toekomstige rampen enz. De oplossing hiervoor is voor dit soort dingen niet disconteren. Hierna ontstaan wel weer discussies over wat wel of niet gedisconteerd moet worden
+
+== Wordt geen rekening gehouden met rechtvaardigheid en ethiek
+Verdeling gaat over wie iets heeft. Je wil het liefst Pareto efficient verdelen. Dat is onhaalbaar in de praktijk dus wordt er gekozen voor een potentiële Pareto-verbetering (Hicks-Kaldor). Dit kan ook averechts werken. Dit werkt niet altijd, vooral als mensen niet gecompenseerd kunnen worden (mensenlevens). 
+
+== KBA is niet objectief of transparant
+Met KBA beslis je altijd met onvolkomen informatie. Het is beter om te beslissen met onvolkomen informatie dan helemaal niet.
+
+== Alternatieven op KBA:
+- _Technology-based:_ mest effectieve manier toepassen op bijvoorbeeld klimaatverandering
+- _Verhandelbare emissierechten_
+- _Informational regulation_
+- _Multicriteria-analyse_
+
+== Multicriteria-analyse:
+Meet de kosten in eigen dimensies, ken gewichten toe aan de criteria en bepaal de score. Tel de scores op en vergelijk. Dit heeft inhoudelijk niet echt een verschil met KBA omdat je nog steeds die gewichten moet uitzoeken.
+
+== Meer alternatieven op KBA:
+- *Risk assessment:* alleen kijken naar mogelijke uitkomsten en hoe waarschijnlijk die zijn. 
+- *Cost-effectiveness analysis:* vinden van alternatief met laagste kosten per eenheid minder risico
+- *Risk-benefit analysis:* medisch, kijken naar risico's en baten van een behandeling
+- Wel KBA, maar soms niet disconteren of randvoorwaarde voor zwakke en armen. 
+- Breng kosten en baten samen, zet om in geld wat kan en disconteren. Dan blijft de NCW + niet in geld uit te drukken kosten over, die vergelijk je.
+
+== KBA in de praktijk:
+In de realiteit vallen kosten altijd hoger uit dan dat ze geraamd zijn. Waarom:
+- Technische oorzaken: denk aan vergissingen, slechte inschatting, bias.
+- Psychologische oorzaken: roze bril, dit lukt wel
+- Politieke oorzaken: politici willen graag projecten doorzetten, dus onderschatten de kosten.
+- Economische oorzaken: publiek en eigen belang dus dan maar de kosten onderschatte
+
+== De Auditdienst Rijk (ADR):
+Wij leveren een proactieve bijdrage aan de kwaliteit van de Rijksoverheid met onderzoek naar sturing, beheersing en verantwoording, Dit doen wij in nabijheid van de opdrachtgever, in onafhankelijkheid en met passende deskundigheid.
+
+#pagebreak()
+
+= (De)centralisatie:
+Er is een decentralisatie in de Nederlandse overheid tussen het rijk, de provincies en de gemeenten. De taakverdeling tussen deze overheden is gebaseerd op:
+- Keuze
+- Verantwoordelijkheid
+- Uitvoering/voorzieningen
+- Financiering
+- Financiële verhoudingen
+
+Traditioneel was er een grote focus op efficiency binnen de taakverdeling. *Fiscal federalism* is een theorie die verder kijkt dan alleen die efficiëntie. Er wordt ook gekeken naar de bevoegdheden en financiële verantwoordelijkheid van de overheden. 
+
+*Theorie van Oates:* stelt kortweg dat decentralisatie van publieke diensten tot meer welvaart leidt. Iedere regio heeft z'n eigen behoefte. Een lokale overheid kan hier beter op inspelen dan een centrale overheid. Dit leid tot meer welvaart.
+
+Het liefst wil je alles zo lokaal mogelijk, maar er is een *optimaal voorzieningsgebied*, hoe groot moet een gebied zijn om een bepaalde dienst zo efficiënt en effectief mogelijk te kunnen leveren?
+
+Er zijn verschillende niveaus van decentralisatie. Een aantal tussenvormen ontstaan op basis van: keuze, verantwoordelijkheid, uitvoering/voorzieningen en financiering/kosten. 
+
+== Aspiratie niveaus:
+De aspiratieniveaus, zoals beschreven door Goedhart, beschrijven verschillende doelen die een land kan nastreven als het gaat om de verdeling van publieke middelen en voorzieningen.
+
+1. *Compensatie voor grootste verschillen in belastingcapaciteit:* Dit niveau streeft ernaar om de grootste verschillen in de financiële mogelijkheden van regio's te compenseren. Dit gebeurt door bijvoorbeeld extra middelen te geven aan regio's met een lage belastingcapaciteit, zodat ze toch een basisniveau van publieke diensten kunnen garanderen.
+2. *Compensatie voor verschillen in objectieve behoeften:* Dit niveau gaat verder en beoogt ook verschillen in objectieve behoeften te compenseren.  Zo kunnen regio's met een hoge concentratie ouderen of mensen met een beperking extra middelen krijgen om de specifieke zorgbehoeften in die regio te dekken.
+3. *Volledige egalisatie voorzieningencapaciteit:* Dit niveau streeft ernaar om de financiële capaciteit van alle regio's om publieke diensten te leveren gelijk te maken. Dit betekent dat alle regio's, ongeacht hun belastingcapaciteit of behoeften, in staat moeten zijn om dezelfde hoeveelheid publieke diensten te leveren. 
+4. *Gelijke voorzieningen:* Dit is het meest ambitieuze niveau en streeft ernaar om overal in het land dezelfde publieke voorzieningen aan te bieden, ongeacht de regio. Dit betekent dat alle burgers dezelfde kwaliteit van onderwijs, zorg, openbaar vervoer etc. zouden moeten krijgen, onafhankelijk van hun woonplaats.
+
+Nederland bevind zicht officieel op niveau 3, dat wordt nagestreefd. In de praktijk komen we meer uit op niveau 4. 
+
+== Political Economy:
+De theorie stelt dat politiek gedrag, zoals lobbyen en corruptie, de optimale taakverdeling tussen overheidsniveaus kan beïnvloeden. Hierdoor is het misschien toch handiger om sommige dingen te (de)centraliseren.
+
+*Voorbeeld:*\
+Een gemeente kan besluiten om een bepaalde dienst te centraliseren, omdat de lokale politici daardoor meer macht en invloed krijgen.
+
+== Behavioral Economics: 
+Deze theorie bestudeert hoe mensen in de praktijk beslissingen nemen. Ze stellen vast dat mensen vaak irrationele keuzes maken, gebaseerd op emoties, biases en beperkt inzicht. Dit kan leiden tot ongewenste uitkomsten bij het decentraliseren van diensten.
+
+*Voorbeeld:*\
+Een gemeente kan besluiten om meer geld te besteden aan een populaire dienst, terwijl de behoefte aan andere diensten groter is.
+
+== Agency Theory en Transaction Costs: 
+Deze theorieën focussen op de relaties tussen "principals" (bijvoorbeeld het Rijk) en "agenten" (bijvoorbeeld gemeenten). De theorie stelt dat er kosten verbonden zijn aan het controleren en sturen van agenten, en dat deze kosten de voordelen van decentralisatie kunnen tenietdoen.
+
+*Voorbeeld:*\
+Het Rijk kan moeite hebben om gemeenten te controleren en te sturen, wat leidt tot inefficiëntie en verspilling van middelen.
+
+== Optimale bekostiging:
+Taakverdeling zegt niks over bekostiging. Een aantal criteria voor optimale bekostiging:
+- Allocatie: (efficiency). De welvaart moet maximaal zijn, productie minimale kosten. Dit geld voor 'normale' goederen en diensten, niet voor collectieve goederen.
+- Verdeling: (equity)
+- Stabilisatie / groei
+- transparantie
+- Administratieve lasten
+
+#pagebreak()
+
+*Verschillende manieren waarop publieke diensten worden bekostigt:*
+Vanaf boven naar beneden:
++ *Prijs en tarief:* Bijvoorbeeld de kosten voor een museumbezoek of de prijs van een treinkaartje. Niet makkelijk toepasbaar op publieke diensten.
++ *Belasting:* Minder handig omdat er geen directe relatie is tussen de kosten en de baten. Ook schade aan welvaart. Rijke overheden steeds rijker, arme steeds armer.
++ *Vrij besteedbare overdrachten van andere overheden:* _algemene_ subsidie aan gemeente om bijvoorbeeld iets uit te voeren. Hogere overheid heeft wel invloed.
++ *Gebonden overdrachten van andere overheden:* Overdrachten met een specifiek doel
++ *Leningen*
+
+== Praktijk:
+- *Nationaal*: Rijk
+- *Decentraal*: gemeenten, provincies, waterschappen
+- *Middenveld*
+- *Supranationaal*: EU
+
+Gemeentes geven 30% van het totaal uit. Komt door bvb jeugdzorg. Provincies geven een stuk minder uit, krijgen geld uit belastingen en provinciefonds. Waterschappen doen waterbeheer en krijgen het geld uit de primaire wateruitkering. 
+
+
+#pagebreak()
