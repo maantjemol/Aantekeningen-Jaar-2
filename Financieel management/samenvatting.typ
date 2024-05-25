@@ -867,5 +867,145 @@ Vanaf boven naar beneden:
 
 Gemeentes geven 30% van het totaal uit. Komt door bvb jeugdzorg. Provincies geven een stuk minder uit, krijgen geld uit belastingen en provinciefonds. Waterschappen doen waterbeheer en krijgen het geld uit de primaire wateruitkering. 
 
+= Toepassingen:
+
+== Ontvangsten gemeenten:
+*De vier belangrijkste bronnen van inkomsten voor gemeenten zijn:*
+
++ *Belastingen:* Gemeenten mogen zelf geen nieuwe belastingen invoeren, maar ze kunnen wel de tarieven van bestaande belastingen bepalen. De belangrijkste belasting voor gemeenten is de *OZB (Onroerende Zaak Belasting)*, die wordt geheven op vastgoed. 
++ *Algemene uitkeringen:* Gemeenten ontvangen *algemene uitkeringen* uit het Gemeentefonds. Dit fonds wordt gevoed met een deel van de rijksbelastingen en de verdeling gebeurt op basis van objectieve criteria, zoals het aantal inwoners, de oppervlakte, etc. 
++ *Specifieke uitkeringen:* De overheid kan gemeenten *specifieke uitkeringen* toekennen voor bepaalde doeleinden, bijvoorbeeld voor jeugdzorg of de WMO. Deze uitkeringen zijn vaak bedoeld om bepaalde doelstellingen te realiseren of om te compenseren voor extra kosten.
++ *Overige ontvangsten:* Deze categorie omvat een breed scala aan inkomsten, zoals *prijzen en tarieven* voor gemeentelijke diensten (bijv. paspoorten), *winst uit gemeentelijke bedrijven*, *opbrengsten uit deelnemingen* en *kapitaaldienst* (verkoop van gemeentelijke bezittingen).
+
+*Praktijk in Nederland:*
+Ongeveer eens in de tien jaar adviescommissie met de vraag voor mee ruimte voor gemeenten. Hier komt nooit verandering in. Aantal punten voor:
+- Betere afweging lokaal niveau
+- Belastingen hebben niet de nadelen van algemene en specifieke uitkeringen
+
+== Tax sharing:
+Een alternatief systeem op het Gemeentefonds. Hier ontvangen gemeentes direct een deel van de belastingen. Gemeentes dragen dan ook risico van belastingtegenvallers. De kosten om dit uit te voeren zijn laag. 
+
+== Beperkingen voor gemeenten om zelfstandig belastingen te heffen.
+*Grondslag met hoge elasticiteit:* Belastingen die sterk fluctueren in opbrengsten zijn niet geschikt voor gemeenten. Het brengt een te hoog risico met zich mee. Denk aan BTW, accijnzen, inkomen, winst.
+
+*Smalle grondslag:* een belasting met een smalle grondslag zou oneerlijk zijn omdat er dan een ongelijke verdeling kan ontstaan. 
+
+De gemeente kan dus belastingen heffen op bezit of belastingen met een laag aandeel in totale uitgaven. Een paar voorbeelden:
+- *OZB:* Belasting op onroerend goed. Gemeenten mogen zelf de tarieven bepalen.
+- *Parkeer*
+- *Rioolrechten*
+- *Hondenbelasting*
+Een aantal nieuwe belastingen:
+- *Heffing op waterverbruik*
+- *Schenk- en erfbelasting*
+
+Het zou ideaal zijn als er meer lokale belastingen komen die worden overgenomen van het Rijk, Het Rijk kan dan compenseren door verlaging en afschaffingen van specifieke uitkeringen.
+
+== Gemeentefonds:
+Het gemeentefonds is een fonds waaruit gemeenten worden gefinancierd. Het fonds wordt gevoed door een deel van de rijksbelastingen en de verdeling gebeurt op basis van objectieve criteria, zoals het aantal inwoners, de oppervlakte, etc. Het is vrij besteedbaar maar er zijn wel veel verplichte uitgaven. 
+
+== Specifieke uitkeringen:
+Specifieke uitkeringen zijn gemaakt om bijzondere kosten de compenseren en gedrag te sturen. Er wordt sterk op verminderd. Het financieel belang blijft groot en het Rijk blijft zich bemoeien met de gemeentes. 
+
+== EU inkomsten:
+De EU heeft een eigen begroting. De inkomsten van de EU bestaan uit:
+- *Importheffing*
+- *BTW*
+- *BNI:* inkomsten belasting
+- Totaal 1% van het BBP lidstaten
+Import en landbouwheffingen zijn eigen EU belastingen, BTW en BNI komen van lidstaten die afdragen op basis van berekening.
+
+== Voorstellen EU:
+Ook in de EU is _tax sharing_ mogelijk, bijvoorbeeld bij BTW, energiebelasting en vennootschapsbelasting. Er zijn een aantal voorstellen voor deze 3. Ook zijn er heffingen genoemd voor financiële transacties, Sms'jes en e-mails, $"CO"_2$ en seigniorage (productie van geld).
+
+= Recente decentralisaties:
+Er zijn redelijk wat taken doorgeschoven van het Rijk naar de gemeentes. De taken zijn 100% overgedragen, maar de kosten vaan 90%. De gemeentes kunnen dingen vaak effectiever en doelmatiger dan het Rijk. Een aantal voorbeelden zijn jeugdzorg en thuiszorg en begeleiding ouderen en gehandicapten. 
+
+De gevolgen zijn dat veel taken worden gedecentraliseerd. De bekostiging is erg krap en als gevolg gaat de kwaliteit omlaag. Er zijn veel lokale verschillen. Er ontstaat een verschuiving naar intramurale zorg (zorg in instellingen) en er is een toename van de kosten.
+
+
+#line(length: 100%, stroke: gray)
+Amerika
+#line(length: 100%, stroke: gray)
+
+= Week 7B:
+Een toename van overheidsbestedingen tot een stijging van de vraag naar geld. Hierdoor:
+- Stijgt de _prijs van geld_, *rente*
+- Daardoor nemen de financieringskosten toe
+- Daardoor dalen de investeringen.
+
+Dit heet _crowding out_. Als de overheid meer leent zorgt een stijgende rente. 
+
+== Wet houdbare overheidsfinanciën:
+De "Wet houdbare overheidsfinanciën" is een wet die in 2012 werd aangenomen om de financiële stabiliteit van de Nederlandse overheid te waarborgen. Deze wet stelt grenzen aan de tekorten en schulden van de overheid.
+
++ _Emu tekortnorm voor *decentrale* overheden:_ 0,5% van het BBP. Dit zijn gemeenten, provincies en waterschappen. Er kan alleen sanctie worden opgelegd als het Rijk een tekort heeft van meer dan 3%.
++ _Emu tekortnorm voor *Rijk:*_ 3% van het BBP
++ _Emu schuldnorm:_ max 60% BBP, jaarlijks minimaal een 20ste deel gemiddeld (over 3 jaar heen) aflossen.
+
+Het rijk werkt met het *kasstelsel*, de decentrale overheden met het *baten en lasten stelsel*. Afschrijvingen hebben geen effect op het tekort. Het gaat alleen op directe uitgaven (aflossing/kapitaaluitgaven). Hierdoor kan je een evenwicht hebben in je balans, maar toch een tekort hebben met het kasstelsel.
+
+== Management van de staatsschuld:
+Er zijn een aantal geld en kapitaalmarkt instrumenten die de overheid kan gebruiken om de staatsschuld te beheren:
+- *Indexleningen:*
+  - Treasury Inflation Protected Securities (TIPS): Deze obligaties beschermen de beleggers tegen inflatie, doordat de couponbetalingen worden aangepast aan de inflatie.
+  - BBP-indexleningen: De rentebetaling op deze leningen hangt af van de groei van het BBP.
+- *Korte-termijnleningen*:
+  - Commercial Papers: Dit zijn korte-termijnleningen (1 week tot 3 maanden) zonder onderpand, uitgegeven tegen een discount (leen mij 90k en ik geef je 100k terug).
+  - Certificate of Deposits (CDs): Dit zijn deposito's met een vaste looptijd die via de secundaire markt verhandeld worden. Geef geld aan de bank (vast) en krijg rente.
+- *Middellange termijnleningen*:
+  - Medium Term Notes (MTNs): Deze leningen hebben een looptijd van 3 tot 36 maanden en de hoofdsom en rente worden gegarandeerd door de Staat.
+Het doel van al deze regelingen is om de staatsschuld zo goedkoop mogelijk te financieren, met zo weinig mogelijk risico.
+
+*Wat begrippen (geen tentamenstof, hoeft niet uit je hoofd):*
+- *STRIPS* (Separate Trading of Registered Interest and Principal Securities): Hierbij worden coupons en obligaties onafhankelijk van elkaar verhandeld.
+- *Off-the-run bonds*: Staatsleningen die al eerder zijn uitgegeven dan de meest recente uitgifte.
+- *DSL* (Dutch State Loans): Kapitaalmarktinstrument voor financiering van de staatsschuld.
+- *DTV* (Dutch Treasury Certificate): Geldmarktinstrument voor financiering van de staatsschuld met een looptijd van 3 tot 12 maanden.
+- *Hedging*: Het afdekken van financieel risico, bijvoorbeeld via renteswaps of valutaswaps.
+
+*Permanente inkoopfaciliteit:* Mogelijkheid van de Staat om bepaalde oude leningen terug te kopen van beleggers. Dit kan bijvoorbeeld zijn als de rente vandaag laag is en de lening een hoge rente heeft.
+
+== Initiatiefnota:
+Een Kamerlid neemt een initiatiefnota om een onderwerp op de agenda te zetten. De regering komt hierna met een reactie. Je legt dit voor aan de minister. 
+
+*Wat zijn derivaten?* Financiële derivaten zijn complexe financiële instrumenten die hun waarde ontlenen aan een onderliggend product, zoals aandelen, rente, valuta of grondstoffen. Een swap is een voorbeeld van een derivaat.
+
+Derivaten leveren een belangrijke bijdragen aan het stabiliseren van het financiële resultaat en de gezondheid van instellingen en ondernemingen.
+
+Coöperaties kwamen erachter dat het voordeliger was om een variable lening af te sluiten en een swap te doen om een vaste lening te krijgen. Dit was goedkoper dan een vaste lening afsluiten. De overheid had hier weinig inzicht in.
+
+*Open positie:* een open positie is een derivaat die geen bestaande lening afdekt. Er wordt iets afgesloten op toekomstige plannen. Dat mag niet. Er staat geen straf op.
+
+*Speculatie:* Het kopen van een financieel product met als doel om in de toekomst winst te maken. 
+
+*Overhedging:* Situatie waarbij er meer financieel risico is afgedekt dan waaraan is blootgesteld. Verzekeren van een huis van €100.000 voor €200.000.
+
+*Embedded derivative: * Derivaten die (bijv.) in leningen zijn verpakt, zodat–geheel volgens de geldende regels- geen onderpand hoeft te worden gestort.
+
+*Wat is een renteswap?* Een renteswap is een financieel derivaat waarbij twee partijen afspreken om rentebetalingen met elkaar te ruilen. Dit kan bijvoorbeeld zijn om een variabele rente om te zetten in een vaste rente.
+
+== Public debt overhang:
+Hoe hoger de spread, hoe meer risico beleggers voelen. Als:
+
+$ arrow.t "staatschuld" > arrow.t "spread" > arrow.b "economic growth" $
+
+Wat is debt overhang: Episodes where public debt to GDP exceeds 90% for at least five years.
+
+Hogere staatschuld rijd tot hogere rente. Dit zorgt voor een lagere economische groei.
+
+Gedurende een debt overhang daalt de economische groei met 1,2%
+- Crowding out
+- Toenamen van lening laat de rente stijgen
+- De effecten op economische groei treden pas op wanneer de schuldratio $>$ 85% is.
+
+Lagere economische groei lijdt niet perse tot debt overhang. Landen met _public debt overhang_ ervaren niet altijd een snelle toename van reële rente.
+
+Debt overhang is vaak het gevolg van kostbare oorlogen of financiële crises.
+
+Debt overhang zorgt niet altijd voor een lagere economische groei. Wel heel vaak
+
+= Tentamen:
+Aantal meerkeuzevragen, 20 of 30? Die gaan over alle stof. 2 open vragen met a, b, c, d, e, f. *Rekenmachine meenemen*. Schulddynamiek formule krijg je. 
 
 #pagebreak()
