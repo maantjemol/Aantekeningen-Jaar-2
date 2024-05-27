@@ -1,5 +1,3 @@
-// Update this import to where you put the `lapreprint.typ` file
-// It should probably be in the same folder
 #import "../template/lapreprint.typ": template
 #import "../template/frontmatter.typ": loadFrontmatter
 #import "@preview/drafting:0.2.0": *
@@ -22,16 +20,22 @@
   ),
   kind: "Samenvatting",
   abstract: (
-    (title: "Samenvatting", content: lorem(100)),
+    (title: "Samenvatting", content: [
+
+Deze samenvatting biedt een uitgebreid overzicht van financieel management in de publieke sector. We onderzoeken de specifieke uitdagingen en dilemma's die publieke organisaties  ervaren in het beheren van hun financiële middelen, te midden van complexe maatschappelijke doelstellingen.
+#line(length: 100%, stroke: gray)
+#outline(depth: 1, fill: "", title: [Inhoud])
+
+    ]),
   ),
   open-access: true,
   margin: (
     (
       title: "Key Points",
       content: [
-        - #lorem(10)
-        - #lorem(5)
-        - #lorem(7)
+        - De publieke sector is gericht op een doel, en niet op winst. De publieke sector bestaat uit publiek georiënteerde organisaties, zoals de overheid en de middenveld organisaties.
+        - De sector is divers georganiseerd en er zijn veel verschillende producten. De bekostiging is vaak via belastingen, en dus ook niet markt georiënteerd.
+        - De crisis van 2008 heeft geleid tot een herziening van het Europees begrotingsraamwerk, waarbij de nadruk ligt op jaarlijkse uitgavenplafonds.  
       ],
     ),
   ),
@@ -53,16 +57,8 @@
 ]
 
 #set heading(numbering: none)
-
+#set quote(block: true)
 #show heading: set text(defaultColor, weight: "medium")
-
-// = Samenvatting <samenvatting>
-// Cijfer is 100% tentamen. Alles gaat via artikelen
-
-// // You can put this after the content that fits on the first page to set the margins back to full-width
-// = Tentamenvragen:
-// - Principaal-agent theorie/probleem / Common pool-probleem
-// - Tentamenvraag over verbetering: gebruik transparantie
 
 = Inleiding
 Financieel management is de planning en beheersing van financiële zaken. Het gaat niet om beleid (wat en waarom) maar om de *hoe vraag*. 
@@ -693,6 +689,7 @@ Nieuwe poging: *VB:*
 - Meer focus op prestaties en verantwoordelijkheid minister.
 - Minder ambitieus dan VBTB
 - Nog steeds geen connectie tussen kosten en effecten, dus geen inzicht in doelmatigheid.
+#pagebreak()
 
 == Grote projecten:
 Bij grote projecten zijn er 3 belangrijke vragen:
@@ -762,6 +759,7 @@ Een mensenleven is van onschatbare waarde. Vaak schatten we de waarde van risico
 
 == Discontering zorgt dat toekomstige schade minder waard is
 KBA maakt toekomst minder belangrijk, dus minder waarde voor toekomstige rampen enz. De oplossing hiervoor is voor dit soort dingen niet disconteren. Hierna ontstaan wel weer discussies over wat wel of niet gedisconteerd moet worden
+#pagebreak()
 
 == Wordt geen rekening gehouden met rechtvaardigheid en ethiek
 Verdeling gaat over wie iets heeft. Je wil het liefst Pareto efficient verdelen. Dat is onhaalbaar in de praktijk dus wordt er gekozen voor een potentiële Pareto-verbetering (Hicks-Kaldor). Dit kan ook averechts werken. Dit werkt niet altijd, vooral als mensen niet gecompenseerd kunnen worden (mensenlevens). 
@@ -925,10 +923,50 @@ De gevolgen zijn dat veel taken worden gedecentraliseerd. De bekostiging is erg 
 
 
 #line(length: 100%, stroke: gray)
-Amerika
-#line(length: 100%, stroke: gray)
+= De kredietcrisis:
+== Bankwezen in de VS:
+Het bankwezen in de VS heeft een complexe geschiedenis: 
+- *Beurskrach, daarna Great Depression*
+- *Glass-Steagall Act:* scheiding tussen commerciële en investment banken
+- *Gramm-Leach Bliley Act:* herintroductie _universal banking model_ 
+#quote(attribution: "Demirgüç-Kunt & Huizinga (2010)")[After the crisis, the US has now come full circle, from the separation of commercial and investment banking through the Glass- Steagall Act of 1933, to the reintroduction of universal banking by way of the Gramm-Leach-Bliley Act in 1999, and, finally, to the disappearance of large independent investment banks altogether in 2008.]
 
-= Week 7B:
+== Subprime mortgages:
+Na het barsten van de dot com bubble werd de rente verlaagd. Hierdoor werd lenen goedkoper en minder winstgevend. De banken begonnen met het verstrekken van *subprime mortgages* (hypotheekleningen aan mensen met een slechte kredietwaardigheid). Hierdoor steeg de vraag naar hypotheken, daardoor de vraag naar huizen, waardoor de huizenprijzen stegen.
+
+== Derivaat:
+Een derivaat is een financieel instrument dat zijn waarde ontleent aan een onderliggende waarde, zoals aandelen, rente, valuta of grondstoffen. Derivaten worden gebruikt om risico's af te dekken of om te speculeren.
+#pagebreak()
+
+== Securitization:
+Securitization is the process of turning assets, like loans or mortgages, into tradable financial products. Here's a simple example:
+
++ *Bank loans*: A bank gives out many home loans.
++ *Pooling*: The bank bundles these loans together into a single package.
++ *Selling*: The bank sells this package to investors as securities (like bonds).
++ *Investors*: Investors buy these securities and receive the loan payments (with interest) from homeowners.
+
+Securitization lijdt over het algemeen tot een lager financieel risico, omdat het risico wordt gespreid over meerdere investeerders en meerdere assets (bvb leningen). Als 1 lening faalt, is het verlies voor de investeerder beperkt. Het idiosyncratic risk daalt.
+
+*Idiosyncratic risk*, also known as unsystematic risk, is the risk that affects a specific company or industry, not the entire market. This type of risk can be reduced through diversification.
+
+*Rating agencies:* Deze geven ratings aan de securitisaties. Dit is belangrijk omdat het de prijs bepaalt. De ratings geven aan hoe veilig de investering is.
+
+== Credit Default Swaps:
+Een Credit Default Swap (CDS) is een financieel derivaat dat de koper beschermt tegen het risico dat een lening niet wordt terugbetaald. De koper betaalt een premie aan de verkoper en in ruil daarvoor ontvangt hij een vergoeding als de lening niet wordt terugbetaald. Deze worden *niet gereguleerd* omdat ze technisch gezien een transactie zijn, geen verzekering. 
+
+== Rente swaps:
+Een renteswap is een financieel derivaat waarbij twee partijen afspreken om rentebetalingen uit te wisselen. Dit kan bijvoorbeeld gebeuren als een partij een lening heeft met een variabele rente en deze wil omzetten naar een vaste rente.
+
+== Gevolgen van de kredietcrisis:
+De kredietcrisis had een aantal belangrijke gevolgen:
+- *Banken:* Veel banken gingen failliet of moesten worden gered door de overheid.
+- *Economie:* De economie kromp en de werkloosheid steeg.
+- *Overheid:* De overheid moest veel geld uitgeven om de economie te redden.
+
+#pagebreak()
+
+= Overheidsfinanciën:
 Een toename van overheidsbestedingen tot een stijging van de vraag naar geld. Hierdoor:
 - Stijgt de _prijs van geld_, *rente*
 - Daardoor nemen de financieringskosten toe
@@ -984,6 +1022,7 @@ Coöperaties kwamen erachter dat het voordeliger was om een variable lening af t
 *Embedded derivative: * Derivaten die (bijv.) in leningen zijn verpakt, zodat–geheel volgens de geldende regels- geen onderpand hoeft te worden gestort.
 
 *Wat is een renteswap?* Een renteswap is een financieel derivaat waarbij twee partijen afspreken om rentebetalingen met elkaar te ruilen. Dit kan bijvoorbeeld zijn om een variabele rente om te zetten in een vaste rente.
+#pagebreak()
 
 == Public debt overhang:
 Hoe hoger de spread, hoe meer risico beleggers voelen. Als:
@@ -1006,6 +1045,7 @@ Debt overhang is vaak het gevolg van kostbare oorlogen of financiële crises.
 Debt overhang zorgt niet altijd voor een lagere economische groei. Wel heel vaak
 
 = Tentamen:
-Aantal meerkeuzevragen, 20 of 30? Die gaan over alle stof. 2 open vragen met a, b, c, d, e, f. *Rekenmachine meenemen*. Schulddynamiek formule krijg je. 
-
-#pagebreak()
+- Aantal meerkeuzevragen, 20 of 30? Die gaan over alle stof. 
+- 2 open vragen met a, b, c, d, e, f. 
+- *Rekenmachine meenemen*. 
+- Schulddynamiek formule krijg je. 
