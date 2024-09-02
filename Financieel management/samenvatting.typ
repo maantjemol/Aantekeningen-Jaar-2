@@ -712,6 +712,8 @@ $ R_0 = (R_t)/((1+r)^t) $
 - rangschikken op basis van de contante waarde
 - grenswaarde instellen en alles erboven kiezen
 
+*NPV:* Net Present Value. Dit is de contante waarde van de baten minus de contante waarde van de kosten. Als dit positief is, is het project rendabel.
+
 Een andere manier is *IRR* (internal rate of return) te gebruiken. Dat is hoeveel je terug verdient op het project:
 - Project A: Investeringskosten €1.000.000, baten van €1.200.000 over 5 jaar. Irr = 4%
 - Project B: Investeringskosten €500.000, baten van €600.000 over 2 jaar. Irr = 10%
@@ -1049,3 +1051,93 @@ Debt overhang zorgt niet altijd voor een lagere economische groei. Wel heel vaak
 - 2 open vragen met a, b, c, d, e, f. 
 - *Rekenmachine meenemen*. 
 - Schulddynamiek formule krijg je. 
+
+#pagebreak()
+= Formuleblad:
+*Nominale BBP vs Reële BBP:*
+- *Nominale BBP:* De waarde van alle goederen en diensten die in een land in een bepaalde periode worden geproduceerd, gemeten tegen huidige prijzen.
+- *Reële BBP:* De waarde van alle goederen en diensten die in een land in een bepaalde periode worden geproduceerd, gecorrigeerd voor inflatie.
+- *BBP Formule*: $Y = C + I + O + E - M $
+- *Schuldquote:* Onze schuldquote mag niet hoger zijn dan 60% van het BBP. $ "Schuldquote" = "schuld" / "BBP" $
+*Financieringssaldo:*
+$ "Financieringssaldo" = "begrotingssaldo - aflossing schuld" $
+- Maximaal Toegestaan Jaarlijks Tekort: 3% van het BBP
+*Inflatielimiet:* Inflatie mag niet hoger zijn dan 1,5% boven het gemiddelde van de drie EMU-landen met de laagste inflatie.
+
+*Wisselkoersstabiliteit:* Geen wisselkoersdevaluaties tegen de euro in de afgelopen twee jaar zijn toegestaan.
+
+*Kapitaalmarktrente Limiet:* De kapitaalmarktrente mag niet meer dan 2% boven de gemiddelde kapitaalmarktrente van de drie EMU-landen met de laagste inflatie liggen.
+*Primair saldo:*
+$ "Primair saldo" = "overheidsinkomsten" - "(overheidsuitgaven - rente)" $
+
+*Verandering in Schuldquote Formule:*
+ $ Delta b_t = (i_t - g_t) / (1+g_t) b_(t-1) - "ps"_t + "dda"_t $
+- $Delta b_t$: verandering in de schuldquote\
+- $i_t$: rente\
+- $g_t$: groei\
+- $b_(t-1)$: schuldquote vorig jaar\
+- $"ps"_t$: primair saldo\
+- $"dda"_t$: boekhoudkundige mutaties en andere zaken\
+- Annuïteit: Een vast bedrag dat periodiek wordt betaald, bijvoorbeeld een lening.
+
+
+*Contante waarde:* Hoeveel moet ik vandaag op een bankrekening storten om over 7 jaar €40.000 beschikbaar te hebben als de rente 5% is?
+$ (€40,000)/1.05^7 = €28,427.25 $
+$ R_0 = (R_t)/((1+r)^t) $
+
+#pagebreak()
+*Primitieve opslagmethode:*
+$ "GTK" = "Directe kosten" * (1 + "Totale indirecte kosten" / "Totale directe kosten") $
+
+*Break-Even Analyse:*
+$ "TO" = "TK" $
+
+*Kosten-Baten Verhouding:*
+$ "Baten" / "Kosten" $
+
+#pagebreak()
+= Begrippenlijst:
+
+#table(columns: (1fr, 2fr),
+[*Publieke sector vs. marktsector:*], [De publieke sector is de sector die bestaat uit de overheid en de non-profitorganisaties. De marktsector bestaat uit bedrijven en particulieren.],
+[*Principaal-agentprobleem:*], [Het principaal agent probleem houdt in dat er een conflict van belangen ontstaat als een persoon acties onderneemt namens een ander persoon. Soms kunnen de belangen dan niet overeen komen.],
+[*Non-market failures:*], [het falen van overheidsingrijpen in een markt. Dit kan komen door slecht gedefinieerde grenzen, onduidelijke doelen, onvoldoende informatie, enz.],
+[*Begrotingsfondsen:*], [Een begrotingsfonds is een speciaal fonds dat wordt gebruikt om geld te reserveren voor een specifiek doel. Dit kan bijvoorbeeld zijn voor de financiering van pensioenen of zorg. Het kan snel leiden tot overspending.],
+[*Structureel overheidssaldo:*], [ Het structureel overheidssaldo is het begrotingssaldo gecorrigeerd voor de economische conjunctuur. Het geeft een beter beeld van de financiële positie van de overheid.],
+[*Begrotingsoverschot en -tekort:*], [Een overschot treed op als de inkomsten hoger zijn dan de uitgaven, een tekort is het tegenovergestelde.],
+[*Bruto overheidsschuld:*], [de totale schuld van de overheid inclusief financiële activa. ],
+[*Netto overheidsschuld:*], [de totale schuld van de overheid minus financiële activa.],
+[*Houdbaarheidssaldo:*], [Het houdbaarheidssaldo is het begrotingssaldo dat nodig is om de overheidsschuld op de lange termijn houdbaar te houden zonder dat de belastingen verhoogd hoeven te worden.],
+[*Aflossingen en afschrijvingen:*], [Een aflossing is het terugbetalen van een lening, een afschrijving is het afschrijven van een investering.],
+[*Garantieverlening:*], [Een garantie is een verplichting van de overheid om een lening terug te betalen als de lener dat niet kan.],
+[*Open-einderegeling:*], [Een regeling waar geen gedefinieerde einddatum/stop is.],
+[*Belastinguitgaven:*], [Belastinguitgaven zijn subsidies die worden verstrekt via het belastingstelsel. Dit kan bijvoorbeeld zijn door belastingvoordelen of aftrekposten.],
+[*Zero Base Budgeting:*], [Zero-based budgeting is een methode van budgettering waarbij elk budget vanaf nul wordt opgebouwd. ],
+[*Controleverklaring (Auditdienst Rijk):*], [Een controleverklaring is een verklaring van een accountant waarin hij aangeeft of de jaarrekening een getrouw beeld geeft van de financiële positie van een organisatie. Kan Goedkeurend, met beperking of oordeelonthouding zijn.],
+[*Activity Based Costing (ABC):*], [Activity-based costing is een methode van kostenberekening waarbij de kosten worden toegerekend aan de activiteiten die ze veroorzaken.],
+[*Kostentoerekening en kostprijs:*], [Kostentoerekening is het toerekenen van kosten aan een bepaald product of dienst. De kostprijs is de prijs die nodig is om een product of dienst te produceren.],
+[*Doelmatigheid:*], [efficient, zo goed mogelijk het doel bereiken.],
+[*Doeltreffend:*], [effectief, het goede doel bereiken.],
+[*Reële rente en inflatie:*], [De reële rente is de rente gecorrigeerd voor inflatie.],
+[*Maatschappelijke kosten-batenanalyse:*], [Een maatschappelijke kosten-batenanalyse is een methode om de kosten en baten van een project of beleid in kaart te brengen.],
+[*Discontovoet:*], [De discontovoet is het rendement dat een investeerder wil behalen op een investering.],
+[*Social Discount Rate:*], [De social discount rate is de discontovoet die wordt gebruikt in een maatschappelijke kosten-batenanalyse. Deze is altijd hoger dan de marktrente bij een kosten-batenanalyse.],
+[*Bekostiging van decentrale overheden:*], [Decentrale overheden worden bekostigd door belastingen, algemene uitkeringen, specifieke uitkeringen en overige ontvangsten.],
+[*Specifieke uitkeringen:*], [Specifieke uitkeringen zijn uitkeringen van het Rijk aan gemeenten voor specifieke doeleinden.],
+[*Gemeentefonds:*], [Het gemeentefonds is een fonds waaruit gemeenten worden gefinancierd. De verdeling gebeurt op basis van objectieve criteria.],
+[*Ruimtelijk bereik van voorzieningen:*], [Het ruimtelijk bereik van voorzieningen is de afstand die mensen moeten afleggen om gebruik te maken van een bepaalde voorziening.],
+[*Debt overhang:*], [Debt overhang is een situatie waarin de schuldquote van een land zo hoog is dat het de economische groei belemmert.],
+[*Crowding out:*], [Crowding out is een situatie waarin de overheid zoveel leent dat de rente stijgt en de investeringen daardoor dalen.],
+[*Theorema van Oates:*], [De theorie van Oates stelt dat decentralisatie van publieke diensten tot meer welvaart leidt.],
+[*Decentralisatie vs. centralisatie van voorzieningen:*], [Decentralisatie is het overdragen van taken naar lagere overheden, centralisatie is het tegenovergestelde.],
+[*Nominaal en reëel BBP:*], [Het nominale BBP is de waarde van alle goederen en diensten die in een land in een bepaalde periode worden geproduceerd, gemeten tegen huidige prijzen. Het reële BBP is gecorrigeerd voor inflatie.],
+[*Economische groei:*], [Economische groei is de toename van de productie van goederen en diensten in een land.],
+[*Financieringstekort:*], [Het financieringstekort is het verschil tussen de inkomsten en uitgaven van de overheid.],
+[*Begrotingssaldo:*], [Het begrotingssaldo is het verschil tussen de inkomsten en uitgaven van de overheid.],
+[*Primair saldo:*], [Het primair saldo is het begrotingssaldo gecorrigeerd voor rentebetalingen.],
+[*Begrotingsnormen (Stabiliteits- en Groeipact):*], [Het Stabiliteits- en Groeipact zijn afspraken tussen EU-landen over begrotingsnormen. Zo mag het tekort niet hoger zijn dan 3% van het BBP en de schuldquote niet hoger dan 60% van het BBP.],
+[*EMU-saldo:*], [Het EMU-saldo is het begrotingssaldo van de overheid gecorrigeerd voor economische conjunctuur.],
+[*Schuldratio:*], [De schuldratio is de verhouding tussen de schuld en het BBP.],
+[*Inputbegroting:*], [Een inputbegroting is een begroting waarbij de uitgaven worden bepaald op basis van de beschikbare middelen.],
+[*NPV:*], [Net Present Value, de contante waarde van alle toekomstige kasstromen minus de investering.],
+)

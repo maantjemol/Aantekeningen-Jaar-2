@@ -20,7 +20,8 @@
 			"lapreprint",
 			"lorenzcurve",
 			"Minto",
-			"pagebreak"
+			"pagebreak",
+			"transform"
 		],
 	}
 }
