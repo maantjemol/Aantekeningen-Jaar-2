@@ -134,6 +134,7 @@
     let levels = counter(heading).at(loc)
     set text(10pt, weight: 600)
     if it.level == 1 [
+      #set text(12pt, weight: 600)
       // First-level headings are centered smallcaps.
       // We don't want to number of the acknowledgment section.
       #let is-ack = it.body in ([Acknowledgment], [Acknowledgement])
@@ -149,6 +150,7 @@
       #it.body
       #v(13.75pt, weak: true)
     ] else if it.level == 2 [
+      #set text(11pt, weight: 600)
       // Second-level headings are run-ins.
       #set par(first-line-indent: 0pt)
       #v(14pt, weak: true)
@@ -161,11 +163,7 @@
       #v(10pt, weak: true)
     ] else [
       // Third level headings are run-ins too, but different.
-      #if it.level == 3 {
-        numbering(heading-numbering, ..levels)
-        [. ]
-      }
-      _#(it.body):_
+      _#(it.body)_\
     ]
   })
 
