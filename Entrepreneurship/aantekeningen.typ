@@ -125,3 +125,37 @@ An opportunity must be:
 - *Desirable:* The idea is desirable
 - *Feasible:* The idea is feasible
 - *Viable:* The idea is viable
+
+
+// Week 4
+= Founders dilemmas:
+== When to found? (career dilemma)
+
+#table(columns: (auto, auto, auto), 
+  [], [*Now*], [*Later*], 
+  [🟢], [
+    + Catch the right window
+    + Knowledge of the present
+    + Time to scale (already have some prototype and let people test your prototype to gather feedback)
+  ], [
+    + More resources
+    + Pick your timing
+    + More experience
+  ],
+  [🔴], [
+    + 
+  ], [
+    + Duplication of your idea
+    + More to lose
+    + Endless loop of overthinking
+  ]
+)
+#figure(
+  caption: "When to found?",
+)[]
+
+== Found solo or team?
+*Team:*
+- More human capital
+
+Overlap in experience is common. Trust and other soft factors are at least as important. Team cohesion is important. Overlap in soft factors can be good. 

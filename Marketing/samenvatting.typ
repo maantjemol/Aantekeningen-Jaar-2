@@ -129,7 +129,7 @@ The push that directs the marketing process in an organization is the *marketing
 === A few orientations:
 1. *Production concept* (- 1930): customers especially want cheap products which are available in large quantities.
 2. *Product concept* (- 1930): customers only want the best products with all kinds of features.
-3. *Selling concept* (1930 - 1950): customers only buy – with the foot between the door – if they are put under pressure. Make everybody happy. 
+3. *Selling concept* (1930–1950): customers only buy – with the foot between the door – if they are put under pressure. Make everybody happy. 
 4. *Marketing concept* (1950 -): to get satisfied and loyal customers in all our decisions the needs and wants of our target group should be the focus.
 5. *Societal marketing concept* (1970 -): marketing should take into consideration the potential conflicts between short-term customer satisfaction and consumer/social long-term welfare.
 
@@ -178,6 +178,44 @@ There are a few ethical issues in marketing. There should be a balance between t
 
 *Transaction value:* the perceived benefit a customer gains from the act of purchasing itself, often associated with the feeling of getting a good deal. It includes the difference between the price the customer expects to pay and the price they actually pay.
 
+// Week 3
+= Harvard case 1:
+== Should B&T launch a new product? 
+*Yes:*
+- More revenue
+- Untapped market
+- Value for customers
+  - Convenience
+  - Ease of transport
+  - Precision usage
+- Differentiation
+
+*No:*
+- There is no proven need or demand
+- Cannibalization of existing products
+- Existing habits of customers
+- Costs
+
+== Suggest segmentation, targeting, and positioning:
+*Segmentation:* Travelers (geography) instead of households, than income, physiographic, health conscious\
+
+*Targeting:* B&T should target travelers in Visayans, where there is a high demand for travel-friendly products. B&T can also target travelers in Mindanao, as the market is more fragmented and there is an opportunity to gain market share.\
+
+*Positioning:* Tesla statement from the slides (week 2 or 3)
+
+// Week 4:
+= Tupperware:
+== If you were Eric/Phil preparing recommendations to Tupperware, what would you say are the key challenges the company is facing at this stage of its life cycle?
+- Target market issues
+- Competition from cheaper brands
+- Lack of modern marketing strategy
+- 
+
+== What should Tupperware do to reverse its fate to retain and increase market share?
+Solutions:
+- Lean into the Tupperware brand name
+  - Use influencers to host Tupperware parties and promote the brand
+- Innovate the product
 
 = The assignment:
 / What is a marketing plan?: #text[
@@ -196,8 +234,8 @@ There are a few ethical issues in marketing. There should be a balance between t
 - Make the layout attractive
 
 
-2. Make a problem statement:
-  1. Seperate the problemens, Why is this marketing plan needed
-3. Main research question
-4. Scope
-5. Delimitations: what is not included
+1. Make a problem statement:
+  1. Separate the problems, Why is this marketing plan needed
+2. Main research question
+3. Scope
+4. Delimitations: what is not included
