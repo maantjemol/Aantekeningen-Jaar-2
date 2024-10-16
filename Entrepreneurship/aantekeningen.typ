@@ -125,3 +125,45 @@ An opportunity must be:
 - *Desirable:* The idea is desirable
 - *Feasible:* The idea is feasible
 - *Viable:* The idea is viable
+
+= Ideas, inventions and innovations
+== Classification of ideas:
+Classify based on *novelty*, and *usefulness*.
+
+== Difference between inventions and inovations:
+The difference is *demand*. An *invention* is about generation of *new ideas* for a new product. An *innovation* is the *first commercialization* of an invention. There is a *time gap* between the invention and the innovation. Some possible explanations:
+- Working out an idea takes time
+- No demand for the idea
+- Takes time for people to get use to the idea
+
+The steps from invention to innovation:
++ Research and Creativity
++ Invention
++ Design & development
++ Innovation
+
+/ What are innovations?: #text[
+  Often comes about in on of 4 opportunities:
+  + Truly new product
+  + ... see slides week 2
+
+]
+
+== What is new?
+Innovation requires *newness*. You will conquer unknown territory. Whether something is an innovation is subjective. Something doesn't have to be new to the world to have economic impact. *Imitative entrepreneurs* bring existing ideas and bring little or no incremental knowledge. *Innovative entrepreneurs* bring new ideas and bring incremental knowledge.
+#pagebreak()
+
+From the consumers point of view, newness can be described in terms of *it's effect on the consumer*. How much *behavioral change* or *new learning* is required?
+
+/ Disruptive innovations: The process in which a *smaller company* usually with *fewer resources* is able to *challenge an established business*, either by addressing *customer that have been overlooked* (but already served in the past), or by addressing *new customers* (new market).
+
+
+
+= Intrapreneurship
+Entrepreneurial action within a firm
+
+= Business models
+BMC: see slides
+
+= Business planning
+

@@ -17,11 +17,11 @@
 
 
 #show: template.with(
-  title: "Project management",
+  title: "Seminar Business Information Systems",
   subtitle: "Samenvatting",
   short-title: "",
   venue: [ar#text(fill: red.darken(20%))[X]iv],
-  // This is relative to the template fsile
+  // This is relative to the template file
   // When importing normally, you should be able to use it relative to this file.
   
   theme: defaultColor,
@@ -65,3 +65,6 @@
 #set heading(numbering: none)
 
 #show heading: set text(defaultColor, weight: "medium")
+
+#set heading(numbering: none)
+
