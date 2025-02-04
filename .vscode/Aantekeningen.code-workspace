@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "GitHub Light",
+		"workbench.colorTheme": "GitHub Dark Dimmed",
 		"pasteImage.prefix": "#image(\"",
 		"pasteImage.suffix": "\")",
 		"cSpell.language": "nl,en,nl-NL,lorem",
