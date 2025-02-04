@@ -23,5 +23,6 @@
 			"pagebreak",
 			"transform"
 		],
+		"languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE",
 	}
 }
