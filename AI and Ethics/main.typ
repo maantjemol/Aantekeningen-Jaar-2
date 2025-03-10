@@ -118,3 +118,28 @@ focus on the action. The action is the most important. The laws and principles a
 
 *Virtue ethics*\
 Focus on the person. The person is the most important.
+
+= Week 2:
+== Privacy:
+/ Privacy: the right of not being observed
+
+Historically, it was not technologically possible to actually track all private actions of citizens. This is now possible. Companies also find value in data, which can be used for advertising. The more and better information about users is available, the better AI systems can learn from the data to adapt their behavior.
+
+Gathering this data has become dramatically easier, with application like facebook and google, and devices like smarter cars and phones. We see that even large parts of a population may be willing to sacrifice their
+privacy if they see some benefit.
+
+The data that is gathered is often accepted for marketing purposes, but may also be used for other things, like manipulation of public opinion. GDPR makes sure that companies are not allowed to use data without permission.
+
+Some populations can be seen as vulnerable, like children, elderly, and people with mental health issues. They may not be able to make a well-informed decision about their privacy.
+
+It is relatively easy to implement the programmatic advertising techniques for other purposes. Autonomous vehicles could, for example, make real-time bids for the lives of their passengers based on their social credit score in the face of an imminent crash. These types of scenarios can only be prevented by  societal discourse. 
+
+=== Some examples of privacy issues:
+- Auto insurance discrimination
+- Chinese Social Credit System
+
+// Seminar 2
+// ---
+// Yes! We agree. We do think that it is about the consequences and the way people use the data. The tax authorities have a responsibility to use the data in a good way. It is thus about a consequences of a lack of privacy. 
+
+// We think that a right to privacy means that you have some way to choose to not give out information if you really don't want it. It is about the right to choose. 

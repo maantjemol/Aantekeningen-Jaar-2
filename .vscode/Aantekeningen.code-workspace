@@ -9,9 +9,9 @@
 		"pasteImage.prefix": "#image(\"",
 		"pasteImage.suffix": "\")",
 		"cSpell.language": "nl,en,nl-NL,lorem",
-		"cSpell.enableFiletypes": [
-			"typst"
-		],
+		"cSpell.enabledFileTypes": {
+			"typst": true
+		},
 		"cSpell.words": [
 			"Developen",
 			"IBIA",
