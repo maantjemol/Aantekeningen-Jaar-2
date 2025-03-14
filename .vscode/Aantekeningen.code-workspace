@@ -1,28 +1,28 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		}
-	],
-	"settings": {
-		"workbench.colorTheme": "GitHub Dark Dimmed",
-		"pasteImage.prefix": "#image(\"",
-		"pasteImage.suffix": "\")",
-		"cSpell.language": "nl,en,nl-NL,lorem",
-		"cSpell.enabledFileTypes": {
-			"typst": true
-		},
-		"cSpell.words": [
-			"Developen",
-			"IBIA",
-			"Intracomptabel",
-			"IPSAS",
-			"lapreprint",
-			"lorenzcurve",
-			"Minto",
-			"pagebreak",
-			"transform"
-		],
-		"languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE",
-	}
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "GitHub Light",
+    "pasteImage.prefix": "#image(\"",
+    "pasteImage.suffix": "\")",
+    "cSpell.language": "nl,en,nl-NL,lorem",
+    "cSpell.enabledFileTypes": {
+      "typst": true
+    },
+    "cSpell.words": [
+      "Developen",
+      "IBIA",
+      "Intracomptabel",
+      "IPSAS",
+      "lapreprint",
+      "lorenzcurve",
+      "Minto",
+      "pagebreak",
+      "transform"
+    ],
+    "languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE"
+  }
 }
