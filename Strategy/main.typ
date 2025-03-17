@@ -1081,4 +1081,167 @@ But are:
 - Distaste for mentoring;
 #pagebreak()
 
+#align()[
+  #text(size: 24pt, weight: "regular", font: "Noto Serif")[
+  Cases]
+  #pad(bottom:8pt, top: -18pt, line(length:20%, stroke: 2pt + primary))
+  #pad(top: -12pt, bottom: 0pt)[#emph(text(primary.darken(10%))[
+  // by Manuel Mol
+])]
+]
 
+= Yahoo
+In a 2006 memo, Yahoo! senior vice president Brad Garlinghouse criticized the company's unfocused strategy, describing it as "spreading peanut butter" across too many areas, leading to a lack of clear vision, accountability, and decisiveness. He argued for a radical reorganization involving focusing the company's vision, restoring accountability through leadership changes and performance incentives, and executing a significant restructuring with headcount reductions to eliminate redundancies and improve efficiency. Garlinghouse stressed the need for swift action to capitalize on Yahoo!'s assets and regain its competitive edge in the evolving online landscape.
+
+== Why were the issues facing _Yahoo!_ described as strategic?   
+The issues facing Yahoo! were described as strategic because they fundamentally impacted the company's long-term direction, resource management and structure.
+
+== Identify examples of issues that fit each of the 3 components of strategic management
+The three components of strategic management are:
++ *Strategic analysis:*\
+  There is an evolving competitive landscape going on. Seeing and recognizing this is part of the strategic analysis.
++ *Strategic formulation*:\
+  The strategic formulation is the process of creating a strategy to address the issues identified in the analysis. In this case, it was about focusing on the core business and eliminating redundancies.
++ *Strategic implementation:*\
+  The strategic implementation is the process of implementing the strategies created in the formulation phase. That means in this case a restructuring of the company to account for headcount/overhead and capitalizing on Yahoo's assets.
+#pagebreak()
+
+= Ryanair
+Ryanair, Europe's leading low-cost airline, was founded in Ireland in 1985 and initially struggled with losses. Inspired by Southwest Airlines' successful low-cost model in the US, Ryanair's new CEO Michael O'Leary implemented similar strategies, such as maximizing seat capacity, frequent flights, and using a single aircraft type (Boeing 737-800s) to streamline maintenance and operations. This led to Ryanair's first profit in 1991 and established the foundation for its current success, carrying millions of passengers across Europe with a focus on cost efficiency.
+
+== What is the #underline[Big P] for Ryanair?
+The 4 big P's are *heroism, excellence, altruism and discovery*. From these 4, the one that fits Ryanair best is *heroism*. This is because Ryanair was the first low-cost airline in Europe, and they have a heroic goal of making flying accessible to everyone.
+
+== What is the #underline[Small p] for the founder of Ryanair?
+The 4 small p's are *warrior, magician, lover and sovereign*. The one that fits the founder of Ryanair best is *warrior*. He is fierce and determined about cutting costs, fast decision making and going to the extreme. 
+
+== Why, historically, has the airline industry been so unprofitable? (#link(<model_5_Forces>)[5 Forces Analysis])
+Porters 5 forces consist of the *power of buyers, the power of suppliers, the threat of newcomers, the threat of substitutes and the intensity of rivalry*. This course also includes a +1, the *complementors*. The airline industry has been unprofitable because of the high power of suppliers like Boeing, the high threat of substitutes to both rivals and substitutes like trains, the high barrier to entry and the high intensity of rivalry in the low cost space. These forces created fierce rivalry and low profitability.
+
+== Compare the economics of the traditional full-service airline business to that of the low-cost airline business: Why is the profitability so different? (#link(<model_5_Forces>)[5 forces] differences)
+The difference is in the power of buyers. Buyers for low cost airlines are very price sensitive, meaning that they will jump ship fast if prices are lower at another airline. The more traditional airlines are less price sensitive, and they are more focused on the service, and therefore differentiate on more then price.
+
+== How has the competition between Ryanair and other low-cost airline businesses  like EasyJet affected the industry’s profits?
+The competition between Ryanair and other low-cost airlines like EasyJet has led to a price war, which has driven down prices and reduced profitability for all players in the industry. This has forced airlines to cut costs and find new ways to differentiate themselves.
+
+== What are the Complementors, if any for Ryanair?
+The complementors for Ryanair are the *airports and travel agencies* that work with them. They help to create a better experience for the customers, and they also help to drive traffic to the airline. The more complementors there are, the better the experience for the customer, and the more likely they are to fly with Ryanair.
+
+#pagebreak()
+
+= Rocket Internet
+Famous and highly successful for Reverse Engineering in multiple  business occasions are firms created by the Berlin-based company  builder Rocket Internet. Founded and led by the Samwer brothers, who belong among  Europe’s most successful entrepreneurs, one of these reverse- engineered companies is the e-Commerce heavyweight Zalando.  Created as a clone of US-based retailer Zappos, Zalando proves  that Reverse Engineering can also be applied to whole business models. Writing a constant growth story, the firm showed € 5.4  billion revenues in 2018 while leading the field of German online  shops, followed by other highly respectable companies such as  Otto and Amazon.
+
+== Which Rocket Internet resources and competences can you identify in the case?
+Resources are the things that a company has, while competences are the things that a company does. In the case of Rocket Internet, some resources and capabilities include:
++ *Financial resources:* Rocket Internet has a lot of money to invest in new companies and ideas.
++ *Human resources:* Rocket Internet has a team of highly skilled and experienced professionals who can help to develop and grow new companies.
++ *Capability to reverse engineer:* Rocket Internet has a strong capability to reverse engineer successful business models and apply them to new markets.
+
+== Which of them would you define as VRI and which as #link(<model_VRIO>)[VRIO]?
+#link(<model_VRIO>)[VRI(O)]: Valuable, Rare, Inimitable, Supported by organization.
++ *Financial resources:* the financial resources are both valuable and rare, but not inimitable. They are supported by the organization. _Not VRIO_
++ *Human resources:* the human resources are valuable, rare and inimitable. They are supported by the organization. _VRIO_
++ *Capability to reverse engineer:* the capability to reverse engineer is valuable, rare and inimitable. It is supported by the organization. _VRIO_
+
+This makes the combination of their human resources and capability to reverse engineer a *core capability*. 
+
+== On the whole, how important are the Samwer brothers to Rocket Internet? What would change if they left or sold the company?
+The Samwer brothers are somewhat important for Rocket Internet. They are part of the core capability of reverse engineering, and definitely have an eye for opportunities. They can however probably replaced by a team of people in the organization with the right training if they would leave or sell the company.
+
+== Which dynamic capabilities do you think will be necessary in  future? 
+Dynamic capabilities are the capabilities that allow a company to adapt to change. Some of the dynamic capabilities that will be necessary in the future include:
++ *Agility:* the ability to quickly adapt to changing market conditions and customer needs
++ *Innovation:* the ability to create new products and services that meet customer needs
++ *Collaboration:* the ability to work with other companies and organizations to create new products and services
+
+#pagebreak()
+
+= Apple:
+Apple is a technology company that designs, manufactures, and sells consumer electronics, software, and services. It is known for its innovative products, such as the iPhone, iPad, and Mac computers. Apple has a strong brand and a loyal customer base, which has helped it to become one of the most valuable companies in the world.
+
+== Define another option for Apple Inc. based on the given TOWS matrix example.
+=== SWOT
+#set par(justify: false)
+#table(
+  columns: (1fr, 1fr, 1fr, 1fr),
+  table.header([Strengths], [Weaknesses], [Opportunities], [Threats]),
+  [
+  - _S1_: Strong brand
+  - _S2_: Innovative products
+  - _S3_: Strong customer base
+  - _S4_: Strong financial position
+  ],
+  [
+  - _W1_: High prices
+  - _W2_: Limited product range
+  - _W3_: Dependent on iPhone sales
+  ],
+  [
+  - _O1_: Growing demand for technology
+  - _O2_: Demand for AI  is growing
+  - _O3_: Growing demand for wearables
+  ],
+  [
+  - _T1_: High competition
+  - _T2_: Economic downturn
+  - _T3_: Tariffs and trade wars
+  ],
+)
+
+#set table(
+  stroke: none,
+  gutter: 0.2em,
+  fill: (x, y) =>
+    if y == 0 or x == 0 { primary.lighten(0%) }
+    else {primary.lighten(95%)},
+  inset: (right: 1.5em)
+)
+
+#show table.cell: it => {
+  if it.y == 0 or it.x == 0 {
+    set text(white)
+    strong(it)
+  } else if it.body == [] {
+    // Replace empty cells with 'N/A'
+    pad(..it.inset)[_N/A_]
+  } else {
+    it
+  }
+}
+
+=== TOWS
+#table(
+  columns: (auto, 1fr, 1fr),
+  table.header([], [Strengths], [Weaknesses]),
+  [
+  Opportunities
+  ],
+  [
+  _S3_ + _O2_: Selling AI features to existing customers with strong brand recognition and customer base.
+  ],
+  [
+  _O3_ + _W2_: Expanding product range to include wearables, but with high prices.
+  ],
+  [
+  Threats
+  ],
+  [
+  _S4 + T2_: Using strong financial position to weather economic downturns and invest in new technologies.
+  ],
+  [
+  _W3 + T1:_ Using strong brand to compete with high competition, but dependent on iPhone sales.
+  ],
+)
+#set par(justify: true)
+
+#pagebreak()
+
+= W.L. Gore:
+W.L. Gore & Associates, a privately owned, \$3 billion company with over 10,000 "associates" (employee-owners), thrives through an unconventional, innovative, and trust-based culture, eschewing traditional hierarchies, budgets, and strategic plans in favor of small, interconnected plant clusters, peer-driven leadership, and a "transactive memory" system that fosters rapid knowledge sharing and problem-solving, enabling them to consistently profit and innovate across diverse industries from Gore-Tex fabrics to medical devices.
+
+== What is the role of culture in helping W. L. Gore to compete successfully?
+The culture plays a big role in the success of W.L. Gore. One of the core values is trust, which helps to foster a culture of innovation and collaboration. The company has a flat organizational structure, which allows for quick decision making and a focus on the customer. This culture of trust and collaboration helps to create a strong sense of ownership among employees, which leads to higher levels of engagement and productivity.
+
+== In the absence of overt strategic control systems, how is the behavior of Gore’s associates motivated and guided?
+In essence, Gore's approach emphasizes intrinsic motivation, collaboration, and shared responsibility, creating a self-regulating environment where associates are driven to excel. Leadership emerges organically based on an individual's ability to attract "followers" among their peers. The size of the teams, and the plants themselves, are kept small, so that everyone knows each other. This creates a more personal, and therefore more accountable environment.   
