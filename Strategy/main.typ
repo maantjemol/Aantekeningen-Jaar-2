@@ -104,6 +104,33 @@
   it
 }
 
+// Get the models from the document
+= Models:
+#context {
+  let labels = query(heading).map(x => {
+    let label = x.at("label", default: none)
+    if (label != none) {
+      if "model" in str(label){
+        (str(label), x.body)
+      }
+    }
+  }).filter(x => x != none)
+  for l in labels {
+    let name = l.at(0)
+    let body = l.at(1)
+    [- #link(label(name))[
+      #body
+    ]]
+  }
+}
+== Important models:
+- Purpose
+- purpose/mission/vision
+- 
+
+#pagebreak()
+
+
 // // = Week 1
 // = What is strategy
 // Strategy can be broken down in 3 parts:
@@ -330,7 +357,7 @@ The world we now live in is:
 - *Complexity:* many interconnected parts
 - *Ambiguity:* not knowing what to do
 
-== Value, mission and vision
+== Value, mission and vision <model_VMV>
 / Values: A set of beliefs on which policies and actions are based
 / Mission: Why the organization exists (Purpose), where it exists (Scope) and its activities
 / Vision: What the organization wants to become
@@ -342,14 +369,14 @@ There are two ways to look at purpose:
 
 The first viewpoint is "structural" and what we use.
 
-=== Big P:
+=== Big P: <model_BigP>
 The reason for its existence:
 + *Altruism:* the company is there to help others (Unilever)
 + *Heroism:* the company is there to save the world (Ford)
 + *Excellence:* the company is there to be the best (Harvard)
 + *Discovery:* the company is there to learn and discover (Google)
 
-=== Small P:
+=== Small p: <model_smallp>
 Leaders have one of the following personal purposes:
 + *Magician:* a desire for transformation and innovation (Steve Jobs)
 + *Warrior:* achieve goals and overcome obstacles (Elon Musk)
@@ -607,7 +634,7 @@ The TOWS analysis is based on the #link(<model_SWOT>)[SWOT analysis]. It is a to
 
 The TOWS matrix helps generate options by combination. It's like a candybox of options. 
 
-== ANSOFF matrix:
+== ANSOFF matrix: <model_ANSOFF>
 #columns[
 A *growth vector* is the direction in which growth occurs. There are two important criteria for growth vectors:
 - The market, new or existing
@@ -783,7 +810,7 @@ A firm that acquires a complementary product is said to be engaging in *horizont
 / Blue ocean strategy: creating a new market space, making the competition irrelevant
 / Platform strategy: describes how an organization intends to create a new platform or grow an ecosystem in which the organization is embedded
 
-=== Magic business model triangle:
+=== Magic business model triangle: <magic_model>
 #columns[
 The Magic business model triangle describes a business model of which the first two elements (WHO and WHAT) address its external aspects and the second two (HOW and VALUE) address its internal dimensions
 It is normal to borrow brilliance from others. You can borrow a business model, but you need to adapt it to your own company.
@@ -904,7 +931,7 @@ An adhocracy is a type of organizational structure in which the organization is 
 / Multinational corporations: are corporations that operate in multiple countries. International trade may be done in different ways, like exporting, licensing and joint ventures. Foreign direct investments are key for multinational corporations.
 #pagebreak()
 
-== Strategy maps
+== Strategy maps <strategy_map_model>
 / A strategy map: represents HOW an organization creates value
 #figure(
   image("image-18.png"),
